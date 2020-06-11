@@ -1,1 +1,15 @@
-../figures/fig1-map/drill_sites.txt
+# Drill sites on the Siple Coast, in polar stereographic -71S
+# Data sources ---
+#     J9: Webb et al., 1979, Science
+#     UpB: Engelhardt and Kamb, 1997, J. Glac (old UpB '84, surveyed in 1988)
+#     UpC: Kamb, 2001, Antarctic Research Series, Vol. 77 (Fig. 2 caption)
+#     UpD: From Engelhardt's website (glaciology.caltech.edu/upd/upd.html)
+#     Crary Ice Rise: Bindschadler et al., 1988, Antarctic Journal (estimated location of second borehole from Fig. 1)
+#     SLW: Tulaczyk et al., 2014, Ann. Glac.
+x y name
+-163668.180749 -813902.934381 J9
+-476236.956042 -524878.579034 UpB
+-571614.603394 -591235.509519 UpC
+-624563.840000 -744472.787716 UpD
+-105977.016966 -752101.255967 CIR
+-277573.946639 -561480.166421 SLW
