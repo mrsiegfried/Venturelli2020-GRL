@@ -1,0 +1,13 @@
+name: gmt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pygmt
+  - geopandas
+  - matplotlib
+  - ipykernel
+  - pip
+  - rioxarray
+prefix: /Users/siegfried/opt/anaconda3/envs/gmt
+
