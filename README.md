@@ -11,5 +11,5 @@ Datasets used for main panels:
 * Antarctic Lake Outlines from Siegfried & Fricker, 2018: to be posted to NSIDC (email for a copy for now)
 
 Datasets used for inset map of Antarctica:
- * MODIS Mosaic of Antarctica, Grounding Line, 2009, v01.1, .gmt file (in "coastlines" folder): [dataset page](https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0593_moa2009/coastlines/moa_2009_groundingline_v01.1.gmt)
+ * MODIS Mosaic of Antarctica, Grounding Line, 2009, v01.1, .gmt file (in "coastlines" folder): [dataset page](https://nsidc.org/data/NSIDC-0593/versions/1), [direct download](https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0593_moa2009/coastlines/moa_2009_groundingline_v01.1.gmt)
  * MODIS Mosaic of Antarctica, Coastline, 2009, v01.1, .gmt file (in "coastlines" folder): [dataset page](https://nsidc.org/data/NSIDC-0593/versions/1), [direct download](https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0593_moa2009/coastlines/moa_2009_coastline_v01.1.gmt)
