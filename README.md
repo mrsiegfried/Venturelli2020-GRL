@@ -1,7 +1,7 @@
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/mrsiegfried/Venturelli2020-GRL/blob/master/plot_venturelli2020_fig1.ipynb)
 
 # Venturelli2020-GRL
-Jupyter notebook for plotting Figure 1 in Venturelli et al., 2020 (Geophysical Research Letters). 
+Jupyter notebook for plotting Figure 1 in Venturelli et al., 2020 (Geophysical Research Letters). *Note: use [nbviewer](http://nbviewer.jupyter.org/github/mrsiegfried/Venturelli2020-GRL/blob/master/plot_venturelli2020_fig1.ipynb) to render this notebook because github will choke.*
 
 Datasets used for main plot:
 * MODIS Mosaic of Antarctica 2009, 750 m, hp1, v1.1, geotiff: https://nsidc.org/data/NSIDC-0593/versions/1
