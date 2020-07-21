@@ -1,7 +1,7 @@
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/mrsiegfried/Venturelli2020-GRL/blob/master/plot_venturelli2020_fig1.ipynb)
 
 # Venturelli2020-GRL
-Jupyter notebook for plotting Figure 1 in Venturelli et al., 2020 (Geophysical Research Letters).   
+Jupyter notebook for plotting Figure 1 in [Venturelli et al., 2020 (Geophysical Research Letters)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088476).   
 *Note: use [nbviewer](http://nbviewer.jupyter.org/github/mrsiegfried/Venturelli2020-GRL/blob/master/plot_venturelli2020_fig1.ipynb) to render this notebook because github will choke.*
 
 Datasets used for main panels:
