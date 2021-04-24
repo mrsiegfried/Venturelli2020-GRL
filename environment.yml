@@ -1,13 +1,9 @@
-name: gmt
+name: venturelli2020
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - pygmt
-  - geopandas
-  - matplotlib
-  - ipykernel
-  - pip
-  - rioxarray
-prefix: /Users/siegfried/opt/anaconda3/envs/gmt
-
+  - python=3.8
+  - pygmt=0.3.1
+  - pandas=1.2.4
+  - matplotlib=3.4.1
