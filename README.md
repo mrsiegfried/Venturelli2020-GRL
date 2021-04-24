@@ -1,5 +1,4 @@
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/mrsiegfried/Venturelli2020-GRL/blob/master/plot_venturelli2020_fig1.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrsiegfried/Venturelli2020-GRL/HEAD)
 
 # Venturelli2020-GRL
 24 April 2021 - Froze packages in environment.yml
